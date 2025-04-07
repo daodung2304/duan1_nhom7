@@ -14,7 +14,7 @@ function pdo_get_connection()
     }
 }
 
-// excute the INSERT, UPDATE, or DELETE statement
+// excute the INSERT, UPDATE, DELETE statement
 
 function pdo_execute($sql)
 {
