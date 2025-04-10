@@ -16,13 +16,10 @@ require_once "../dao/contacts.php";
 ?>
 <!DOCTYPE html>
 <html >
-
-<!-- Mirrored from weblearnbd.net/tphtml/shofy-prv/shofy/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 02 Jul 2023 07:58:08 GMT -->
-
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Shofy - Multipurpose eCommerce HTML Template</title>
+    <title>Book365</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
