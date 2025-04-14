@@ -20,10 +20,10 @@
                          <div class="row align-items-center">
                              <div class="col-xl-6 col-lg-6 col-md-6">
                                  <div class="tp-slider-content-2">
-                                     <span>New Arrivals 2023</span>
-                                     <h3 class="tp-slider-title-2">The Clothing Collection</h3>
+                                     <span>New Books 2025</span>
+                                     <h3 class="tp-slider-title-2">Mở sách, mở cánh cửa tri thức</h3>
                                      <div class="tp-slider-btn-2">
-                                         <a href="index.php?act=products" class="tp-btn tp-btn-border">Shop Collection</a>
+                                         <a href="index.php?act=products" class="tp-btn tp-btn-border">Shopp</a>
                                      </div>
                                  </div>
                              </div>
@@ -50,10 +50,10 @@
                          <div class="row align-items-center">
                              <div class="col-xl-6 col-lg-6 col-md-6">
                                  <div class="tp-slider-content-2">
-                                     <span>Best Selling 2023</span>
-                                     <h3 class="tp-slider-title-2">The Summer Collection</h3>
+                                     <span>Best Selling 2025</span>
+                                     <h3 class="tp-slider-title-2">Mỗi cuốn sách, một hành trình mới.</h3>
                                      <div class="tp-slider-btn-2">
-                                         <a href="index.php?act=products" class="tp-btn tp-btn-border">Shop Collection</a>
+                                         <a href="index.php?act=products" class="tp-btn tp-btn-border">Shop</a>
                                      </div>
                                  </div>
                              </div>
@@ -65,7 +65,7 @@
                                      </div>
                                      <div class="tp-slider-thumb-2 text-end">
                                          <span class="tp-slider-thumb-2-gradient"></span>
-                                         <img src="assets/img/slider/2/slider-2.png" alt="">
+                                        
                                      </div>
                                  </div>
                              </div>
@@ -81,9 +81,9 @@
                              <div class="col-xl-6 col-lg-6 col-md-6">
                                  <div class="tp-slider-content-2">
                                      <span>Winter Has Arrived</span>
-                                     <h3 class="tp-slider-title-2">Amazing New designs</h3>
+                                     <h3 class="tp-slider-title-2">Đọc sách – Mở rộng tầm nhìn.</h3>
                                      <div class="tp-slider-btn-2">
-                                         <a href="index.php?act=products" class="tp-btn tp-btn-border">Shop Collection</a>
+                                         <a href="index.php?act=products" class="tp-btn tp-btn-border">Shop </a>
                                      </div>
                                  </div>
                              </div>
@@ -120,7 +120,7 @@
                                  <path d="M81 14.5798C0.890564 -8.05914 -5.81154 0.0503902 5.00322 21" stroke="currentColor" stroke-opacity="0.3" stroke-width="2" stroke-miterlimit="3.8637" stroke-linecap="round" />
                              </svg>
                          </span>
-                         <h3 class="tp-section-title-2">Favorite Style</h3>
+                         <h3 class="tp-section-title-2">Favorite Book</h3>
                      </div>
                  </div>
              </div>
@@ -130,7 +130,7 @@
                          <nav>
                              <div class="nav nav-tabs justify-content-center" id="nav-tab" role="tablist">
                                  <button class="nav-link active" id="nav-allCollection-tab" data-bs-toggle="tab" data-bs-target="#nav-allCollection" type="button" role="tab" aria-controls="nav-allCollection" aria-selected="true">
-                                     All Collection
+                                     All Books
                                      <span class="tp-product-tab-tooltip"><?= $count_products['total'] ?></span>
                                  </button>
                              </div>

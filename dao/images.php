@@ -1,4 +1,4 @@
-<?php
+git pullabel<?php
 require_once "pdo.php";
 
 function add_image($img_name, $product_id){
